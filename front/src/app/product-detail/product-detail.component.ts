@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component } from '@angular/core'; f
 import { ActivatedRoute } from '@angular/router';
 import { CartService } from '../cart.service';
 import {ProductService} from '../product.service';
